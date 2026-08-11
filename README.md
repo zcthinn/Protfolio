@@ -12,10 +12,12 @@ A Power BI analytics project examining end-to-end logistics operations — track
 * **Repository:** [View Project](https://github.com/zcthinn/Logistics-Performance-Analytics))
   
 ### 2. Retail Sales Performance & Profit Analytics
+Power BI dashboard analyzing retail sales performance and profitability across the Superstore dataset (9,994 transactions), uncovering a ~$67K recoverable profit opportunity through discount policy analysis.
 * **Tech Stack:** Power BI Desktop, DAX, Power Query
 * **Repository:** [View Project](https://github.com/zcthinn/retail-sales-powerbi-dashboard))
 
 ### 3. Hotel Booking Cancellation Risk & Business Impact
+An analytics project examining hotel booking cancellation patterns to identify risk factors, compare City vs. Resort hotel performance, and quantify revenue/occupancy impact. Statistical analysis and KPIs were developed in Excel, then translated into an interactive HTML dashboard with AI-assisted development, surfacing insights like higher cancellation risk in long-lead-time bookings and segment-specific cancellation trends.
 * **Tech Stack:** Microsoft Excel, HTML, Statistical Analysis, Business Intelligence Reporting
 * **Repository:** [View Project](https://github.com/zcthinn/hotel-booking-cancellation-analysis)
 
