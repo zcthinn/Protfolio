@@ -4,7 +4,7 @@ A curated collection of production-ready data analytics projects demonstrating e
 
 ---
 
-## 🚀 Featured Projects
+## Projects
 
 ### 1. Logistics Performance Analytics
 A Power BI analytics project examining end-to-end logistics operations — tracking delivery delays, their impact on customer satisfaction, vehicle breakdown patterns, driver performance, and hub load/capacity. Built across 6 interactive report pages covering 27,979 orders, 45 vehicles, 55 drivers, and 6 hubs, with the goal of identifying operational bottlenecks and improving on-time delivery rates.
@@ -27,7 +27,7 @@ An analytics project examining hotel booking cancellation patterns to identify r
 
 ---
 
-## 🛠️ Technical Skill Set
+## Technical Skill Set
 
 * **Languages & Databases:** SQL (MySQL), DAX, HTML
 * **Tools & BI Platforms:** Power BI, Microsoft Excel, Power Query
@@ -36,13 +36,13 @@ An analytics project examining hotel booking cancellation patterns to identify r
 
 ---
 
-## 🎯 Analytical Philosophy
+## Analytical Philosophy
 
 I specialize in moving past surface-level metrics to uncover root-cause patterns hidden within multi-dimensional datasets. Whether writing complex window partition logic to audit corporate structures or designing dynamic executive dashboards, my focus remains strictly on **quantifiable business value, cost reduction, and strategic growth.**
 
 ---
 
-## 📬 Connect With Me
+## Connect With Me
 
 * **GitHub:** [@zcthinn](https://github.com)
 * **LinkedIn:** *https://www.linkedin.com/in/zar-chi-thinn/*
