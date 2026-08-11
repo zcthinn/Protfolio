@@ -6,15 +6,20 @@ A curated collection of production-ready data analytics projects demonstrating e
 
 ## 🚀 Featured Projects
 
-### 1. Retail Sales Performance & Profit Analytics
+### 1. Logistics Performance Analytics
+A Power BI analytics project examining end-to-end logistics operations — tracking delivery delays, their impact on customer satisfaction, vehicle breakdown patterns, driver performance, and hub load/capacity. Built across 6 interactive report pages covering 27,979 orders, 45 vehicles, 55 drivers, and 6 hubs, with the goal of identifying operational bottlenecks and improving on-time delivery rates.
+* **Tech Stack:** Power BI Desktop, DAX, Power Query
+* **Repository:** [View Project](https://github.com/zcthinn/Logistics-Performance-Analytics))
+  
+### 2. Retail Sales Performance & Profit Analytics
 * **Tech Stack:** Power BI Desktop, DAX, Power Query
 * **Repository:** [View Project](https://github.com/zcthinn/retail-sales-powerbi-dashboard))
 
-### 2. Hotel Booking Cancellation Risk & Business Impact
+### 3. Hotel Booking Cancellation Risk & Business Impact
 * **Tech Stack:** Microsoft Excel, HTML, Statistical Analysis, Business Intelligence Reporting
 * **Repository:** [View Project](https://github.com/zcthinn/hotel-booking-cancellation-analysis)
 
-### 3. Advanced Employee & Workforce Analytics
+### 4. Advanced Employee & Workforce Analytics
 * **Tech Stack:** MySQL
 * **Repository:** [View Project](https://github.com/zcthinn/Employee-Workforce-Analytics-SQL)
 
