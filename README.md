@@ -31,6 +31,10 @@ Python-based exploratory analysis of a full year of U.S. electronics store trans
 * **Tech Stack:** Python, pandas, Matplotlib, Plotly, Jupyter Notebook
 * **Repository:** [View Project](https://github.com/zcthinn/Electronic-Store-Sales-Data-Analysis)
 
+### 6. Movies Data Analysis
+Python-based exploratory analysis of a large-scale movie industry dataset (~1M titles, 1950–2025), built to separate scale effects from investment efficiency. Found that per-film budget, revenue, and ratings have stayed flat for 75 years while production volume grew ~10x, and that budget strongly predicts absolute revenue (r = 0.90) but has virtually no relationship with ROI (r = -0.001) — a key distinction for capital allocation. Includes genre profitability and director consistency rankings, visualized with density-based hexbin plots to handle large-N overplotting.
+* **Tech Stack:** Python, pandas, Matplotlib, Jupyter Notebook
+* **Repository:** [View Project](https://github.com/zcthinn/Movies-Data-Analysis)
 ---
 
 ## Technical Skill Set
