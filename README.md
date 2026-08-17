@@ -1,6 +1,6 @@
 # Data Analytics Portfolio
 
-A curated collection of production-ready data analytics projects demonstrating expertise across the full analytics lifecycle — from raw data engineering and pipeline design to business intelligence, statistical analysis, and strategic decision support. Each project is built to translate multi-dimensional data into quantifiable business impact.
+A curated collection of production-ready data analytics projects demonstrating expertise across the full analytics lifecycle — from raw data to statistical analysis, and strategic decision support. Each project is built to translate multi-dimensional data into quantifiable business impact.
 
 ---
 
